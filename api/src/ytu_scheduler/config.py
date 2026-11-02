@@ -10,7 +10,7 @@ class Settings(BaseSettings):
 
     owner_token: SecretStr | None = None
 
-    app_name: str = "YTU Schedule Lab V2"
+    app_name: str = "YTÜ Takvim"
     database_url: str = "sqlite:///./ytu_scheduler.db"
     cors_origins: str = "http://localhost:3000"
     draft_database: Path = Path("data/owner-drafts.db")

@@ -1,4 +1,4 @@
-# Student app — WIP
+# YTÜ Takvim — student app (WIP)
 
 Run `npm ci`, then `npm run demo` for an API-free development demo with invented
 QA courses. Open http://localhost:3000, select Fizik, and add QA001/QA003/QA005.

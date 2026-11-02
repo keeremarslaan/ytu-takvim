@@ -1,4 +1,4 @@
-# Local owner tools — WIP
+# YTÜ Takvim — local owner tools (WIP)
 
 This application prepares timetable data on the owner's computer. Keep its source
 in the repository, but never deploy its service or include owner data in the student site.

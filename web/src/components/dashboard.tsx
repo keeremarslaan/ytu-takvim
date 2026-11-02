@@ -289,7 +289,7 @@ export function Dashboard({ programIds, onChangePrograms, packageData }: {
       <header className="planner-topbar">
         <div className="planner-brand">
           <span className="planner-logo">Y</span>
-          <strong>YTÜ Takvim V2</strong>
+          <strong>YTÜ Takvim</strong>
         </div>
         <nav className="planner-tabs" aria-label="Bölümler">
           <button className="active" type="button">Takvim</button>

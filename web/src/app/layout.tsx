@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "YTÜ Takvim V2",
+  title: "YTÜ Takvim",
   description: "Bölümünüze uygun derslerle çakışmasız YTÜ ders programı oluşturucu.",
 };
 

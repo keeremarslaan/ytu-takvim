@@ -1,4 +1,4 @@
-# Scheduler API — WIP
+# YTÜ Takvim API — WIP
 
 Python 3.13 / FastAPI / SQLAlchemy / SQLite, with local document extraction,
 curriculum ingestion, review/export workflows and a legacy OR-Tools solver.

@@ -1,4 +1,4 @@
-# YTU Schedule Lab
+# YTÜ Takvim
 
 **Work in progress**
 
