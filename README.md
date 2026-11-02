@@ -10,9 +10,8 @@ The project separates **curriculum eligibility** from **term offerings**. Its lo
 owner tools turn source documents into reviewed, versioned data; the student app
 validates that data and searches for compatible schedules entirely in the browser.
 
-> This repository contains application code and invented test examples. Extracted
-> university schedules, original timetable documents, owner reports, databases, and
-> local working notes are excluded. Screenshots below use synthetic courses only.
+> This repository contains application code and invented test examples.
+> Screenshots below use synthetic courses only.
 > This is an independent student project with no institutional affiliation or endorsement.
 
 ## Screenshots
