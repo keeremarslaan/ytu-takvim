@@ -1,0 +1,31 @@
+.page { height: 100dvh; overflow: auto; background: var(--bg); }
+.container { max-width: 960px; margin: auto; padding: 32px 24px 80px; }
+.header { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 48px; }
+.header a { color: var(--text-dim); text-decoration: none; }
+.eyebrow { color: var(--gold); letter-spacing: .12em; font-size: 12px; }
+.page h1 { font-size: clamp(28px, 5vw, 40px); margin: 12px 0; }
+.page h2 { font-size: 23px; margin: 0 0 20px; }
+.page h3 { font-size: 18px; margin: 24px 0 12px; }
+.page h4 { margin: 12px 0; }
+.page p, .page li { line-height: 1.6; overflow-wrap: anywhere; }
+.page p { color: var(--text-dim); }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 24px; margin-top: 28px; }
+.page fieldset { border: 0; margin: 0; padding: 0; min-width: 0; }
+.page label { display: grid; gap: 10px; margin: 18px 0; }
+.page input, .page select { width: 100%; min-width: 0; background: var(--surface-2); border: 1px solid var(--line-strong); border-radius: 8px; padding: 12px; }
+.page button { border: 1px solid var(--gold); background: var(--gold); color: var(--bg); padding: 10px 18px; border-radius: 8px; font-weight: 600; }
+.page :focus-visible { outline: 2px solid var(--gold-bright); outline-offset: 4px; }
+.page .error { color: var(--danger); white-space: pre-wrap; }
+.notice { border-left: 3px solid var(--gold); padding: 10px 16px; }
+.page details { border-top: 1px solid var(--line); padding: 15px 0; }
+.page summary { cursor: pointer; overflow-wrap: anywhere; line-height: 1.5; }
+.page pre { overflow: auto; max-height: 420px; font-size: 12px; background: var(--bg); padding: 16px; }
+.group { border-left: 2px solid var(--line-strong); padding: 8px 16px; margin: 16px 0; }
+.course { padding: 8px 0; }
+@media (max-width: 600px) { .container { padding: 24px 16px 48px; } .panel { padding: 18px; } .header { margin-bottom: 32px; } }
+
+.page a { color: var(--gold-bright); }
+.page .check { display: flex; align-items: flex-start; gap: 12px; line-height: 1.5; }
+.page .check input { width: 18px; height: 18px; flex: 0 0 18px; margin-top: 3px; }
+.page button:disabled { opacity: .5; cursor: not-allowed; }
+.page input, .page select { color: var(--text); color-scheme: dark; }

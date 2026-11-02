@@ -1,0 +1,50 @@
+[project]
+name = "ytu-scheduler-api"
+version = "0.2.0"
+description = "Curriculum ingestion and conflict-free scheduling API for YTU"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "alembic>=1.19.1",
+    "beautifulsoup4>=4.15.0",
+    "fastapi>=0.141.1",
+    "httpx>=0.28.1",
+    "lxml>=6.1.2",
+    "openpyxl>=3.1.5",
+    "ortools>=9.15.6755",
+    "pydantic-settings>=2.15.0",
+    "pymupdf>=1.28.2",
+    "python-calamine>=0.8.2",
+    "python-multipart>=0.0.32",
+    "sqlalchemy>=2.0.52",
+    "truststore>=0.10.4",
+    "uvicorn[standard]>=0.52.4",
+]
+
+[project.scripts]
+ytu-api = "ytu_scheduler.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.12.1,<0.13.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-name = "ytu_scheduler"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "pytest-asyncio>=1.4.0",
+    "ruff>=0.16.5",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"
+extend-exclude = ["data"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

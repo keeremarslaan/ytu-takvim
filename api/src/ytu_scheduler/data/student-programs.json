@@ -1,0 +1,417 @@
+{
+  "source_url": "https://yokatlas.yok.gov.tr/",
+  "verified_on": "2026-09-16",
+  "source_label": "2026-YKS (as displayed by the live Atlas directory)",
+  "filter": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL); all 63 results were 4-year degrees",
+  "policy": "Only programs present in this reviewed Atlas directory appear in student selection. Quota variants share one degree/language choice. Absence is not evidence of closure or zero enrollment.",
+  "programs": [
+    {
+      "bologna_program_id": 52,
+      "name": "İletişim ve Tasarımı Lisans Programı",
+      "atlas_program_codes": [
+        110190096
+      ]
+    },
+    {
+      "bologna_program_id": 535,
+      "name": "İktisat Lisans Programı (%100 İngilizce)",
+      "atlas_program_codes": [
+        110110507
+      ]
+    },
+    {
+      "bologna_program_id": 539,
+      "name": "İşletme Lisans Programı (%100 İngilizce)",
+      "atlas_program_codes": [
+        110190084
+      ]
+    },
+    {
+      "bologna_program_id": 108,
+      "name": "Okulöncesi Eğitimi Lisans Programı",
+      "atlas_program_codes": [
+        110110367
+      ]
+    },
+    {
+      "bologna_program_id": 96,
+      "name": "İngilizce Öğretmenliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110022
+      ]
+    },
+    {
+      "bologna_program_id": 201,
+      "name": "Fransızca Mütercim Tercümanlık Lisans Programı (2018 versiyon)",
+      "atlas_program_codes": [
+        110190095
+      ]
+    },
+    {
+      "bologna_program_id": 55,
+      "name": "İşletme Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110137
+      ]
+    },
+    {
+      "bologna_program_id": 54,
+      "name": "İktisat Lisans Programı",
+      "atlas_program_codes": [
+        110190119
+      ]
+    },
+    {
+      "bologna_program_id": 35,
+      "name": "Türkçe Eğitimi Lisans Programı",
+      "atlas_program_codes": [
+        110110394
+      ]
+    },
+    {
+      "bologna_program_id": 27,
+      "name": "Türk Dili ve Edebiyatı Lisans Programı",
+      "atlas_program_codes": [
+        110110119
+      ]
+    },
+    {
+      "bologna_program_id": 222,
+      "name": "Matematik Mühendisliği Lisans Programı (%100 İngilizce)",
+      "atlas_program_codes": [
+        110110349,
+        110100101
+      ]
+    },
+    {
+      "bologna_program_id": 281,
+      "name": "Fotoğraf ve Video Lisans Programı",
+      "atlas_program_codes": [
+        110110597
+      ]
+    },
+    {
+      "bologna_program_id": 550,
+      "name": "Bilgisayar Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110031
+      ]
+    },
+    {
+      "bologna_program_id": 405,
+      "name": "Endüstri Mühendisliği Lisans Programı (%100 İngilizce)",
+      "atlas_program_codes": [
+        110110464
+      ]
+    },
+    {
+      "bologna_program_id": 557,
+      "name": "Yapay Zeka ve Veri Mühendisliği Lisans Programı (%100 İngilizce)",
+      "atlas_program_codes": [
+        110190133,
+        110190147
+      ]
+    },
+    {
+      "bologna_program_id": 6,
+      "name": "Elektronik & Haberleşme Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110058
+      ]
+    },
+    {
+      "bologna_program_id": 37,
+      "name": "Matematik Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110207,
+        110190085
+      ]
+    },
+    {
+      "bologna_program_id": 45,
+      "name": "Endüstri Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110225
+      ]
+    },
+    {
+      "bologna_program_id": 403,
+      "name": "Kontrol ve Otomasyon Mühendisliği Lisans Programı (%100 İngilizce)",
+      "atlas_program_codes": [
+        110110428
+      ]
+    },
+    {
+      "bologna_program_id": 29,
+      "name": "Kontrol ve Otomasyon Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110304,
+        110190086
+      ]
+    },
+    {
+      "bologna_program_id": 391,
+      "name": "Makine Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110243
+      ]
+    },
+    {
+      "bologna_program_id": 404,
+      "name": "Mekatronik Mühendisliği Lisans Programı (%100 İngilizce)",
+      "atlas_program_codes": [
+        110110473,
+        110190098
+      ]
+    },
+    {
+      "bologna_program_id": 110,
+      "name": "Sosyal Bilgiler Eğitimi Lisans Programı",
+      "atlas_program_codes": [
+        110110385
+      ]
+    },
+    {
+      "bologna_program_id": 7,
+      "name": "Elektrik Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110049
+      ]
+    },
+    {
+      "bologna_program_id": 398,
+      "name": "Kimya Mühendisliği Lisans Programı (%100 İngilizce)",
+      "atlas_program_codes": [
+        110110491
+      ]
+    },
+    {
+      "bologna_program_id": 263,
+      "name": "Sanat ve Kültür Yönetimi Lisans Programı",
+      "atlas_program_codes": [
+        110190094
+      ]
+    },
+    {
+      "bologna_program_id": 46,
+      "name": "Mekatronik Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110279
+      ]
+    },
+    {
+      "bologna_program_id": 56,
+      "name": "Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110146
+      ]
+    },
+    {
+      "bologna_program_id": 36,
+      "name": "Kimya Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110191,
+        110110561
+      ]
+    },
+    {
+      "bologna_program_id": 48,
+      "name": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110234
+      ]
+    },
+    {
+      "bologna_program_id": 401,
+      "name": "Metalürji ve Malzeme Mühendisliği Lisans Programı (%100 İngilizce)",
+      "atlas_program_codes": [
+        110110455
+      ]
+    },
+    {
+      "bologna_program_id": 38,
+      "name": "Metalürji ve Malzeme Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110216
+      ]
+    },
+    {
+      "bologna_program_id": 9,
+      "name": "İstatistik Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110076
+      ]
+    },
+    {
+      "bologna_program_id": 109,
+      "name": "Sınıf Öğretmenliği Lisans Programı",
+      "atlas_program_codes": [
+        110110376
+      ]
+    },
+    {
+      "bologna_program_id": 183,
+      "name": "Rehberlik ve Psikolojik Danışmanlık Lisans Programı",
+      "atlas_program_codes": [
+        110110313
+      ]
+    },
+    {
+      "bologna_program_id": 141,
+      "name": "Gemi Makineleri İşletme Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110288
+      ]
+    },
+    {
+      "bologna_program_id": 397,
+      "name": "İnşaat Mühendisliği Lisans Programı (%100 İngilizce)",
+      "atlas_program_codes": [
+        110110437
+      ]
+    },
+    {
+      "bologna_program_id": 163,
+      "name": "Biyomühendislik Lisans Programı (%100 İngilizce)",
+      "atlas_program_codes": [
+        110110331
+      ]
+    },
+    {
+      "bologna_program_id": 147,
+      "name": "Biyomühendislik Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110182
+      ]
+    },
+    {
+      "bologna_program_id": 504,
+      "name": "Biyomedikal Mühendisliği Lisans Programı (%100 İngilizce)",
+      "atlas_program_codes": [
+        110190089,
+        110190140
+      ]
+    },
+    {
+      "bologna_program_id": 26,
+      "name": "Matematik Lisans Programı",
+      "atlas_program_codes": [
+        110110094
+      ]
+    },
+    {
+      "bologna_program_id": 429,
+      "name": "Mimarlık Lisans Programı (%100 İngilizce)",
+      "atlas_program_codes": [
+        110110482
+      ]
+    },
+    {
+      "bologna_program_id": 40,
+      "name": "İnşaat Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110164
+      ]
+    },
+    {
+      "bologna_program_id": 195,
+      "name": "Gıda Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110401
+      ]
+    },
+    {
+      "bologna_program_id": 191,
+      "name": "Moleküler Biyoloji ve Genetik Lisans Programı",
+      "atlas_program_codes": [
+        110110419
+      ]
+    },
+    {
+      "bologna_program_id": 396,
+      "name": "Kimya Lisans Programı (%100 İngilizce)",
+      "atlas_program_codes": [
+        110110446
+      ]
+    },
+    {
+      "bologna_program_id": 50,
+      "name": "Mimarlık Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110252
+      ]
+    },
+    {
+      "bologna_program_id": 10,
+      "name": "Kimya Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110085
+      ]
+    },
+    {
+      "bologna_program_id": 43,
+      "name": "Çevre Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110155
+      ]
+    },
+    {
+      "bologna_program_id": 25,
+      "name": "Fizik Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110067
+      ]
+    },
+    {
+      "bologna_program_id": 44,
+      "name": "Harita Mühendisliği Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110297
+      ]
+    },
+    {
+      "bologna_program_id": 107,
+      "name": "İlköğretim Matematik Eğitimi Lisans Programı",
+      "atlas_program_codes": [
+        110110322
+      ]
+    },
+    {
+      "bologna_program_id": 51,
+      "name": "Şehir ve Bölge Planlama Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110261
+      ]
+    },
+    {
+      "bologna_program_id": 31,
+      "name": "Bilgisayar ve Öğretim Teknolojileri Eğitimi Lisans Programı (%30 İngilizce)",
+      "atlas_program_codes": [
+        110110013
+      ]
+    },
+    {
+      "bologna_program_id": 106,
+      "name": "Fen Bilgisi Eğitimi Lisans Programı",
+      "atlas_program_codes": [
+        110110358
+      ]
+    },
+    {
+      "bologna_program_id": 487,
+      "name": "Kültür Varlıklarını Koruma ve Onarım Lisans Programı",
+      "atlas_program_codes": [
+        110190088
+      ]
+    }
+  ],
+  "not_listed_bologna_ids": [
+    206,
+    207,
+    208,
+    259,
+    511,
+    513,
+    516
+  ]
+}

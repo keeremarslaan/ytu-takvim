@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "source": {
+    "key": "example-physics",
+    "revision": "example-1",
+    "replaces_revision": null,
+    "publisher": "Example Physics",
+    "filename": "schedule-source.txt",
+    "url": null,
+    "sha256": "d67a6fede17f41ea761872bb9ffad940ec69a711c5500694bc35f8925e7cf988",
+    "published_on": null
+  },
+  "term": {
+    "code": "2026-2027-fall",
+    "academic_year": "2026-2027",
+    "season": "fall",
+    "timezone": "Europe/Istanbul"
+  },
+  "courses": [
+    {
+      "code": "FIZ1111",
+      "aliases": [],
+      "name": "Fizik 1",
+      "catalog_course_id": null,
+      "groups": [
+        {
+          "label": "Gr.1",
+          "language": null,
+          "instructor": null,
+          "time_status": "scheduled",
+          "evidence": {
+            "page": 1,
+            "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+          },
+          "permissions": {
+            "allowed_bologna_program_ids": null,
+            "excluded_bologna_program_ids": [],
+            "note": null,
+            "unresolved": false,
+            "evidence": null
+          },
+          "meetings": [
+            {
+              "weekday": 1,
+              "starts_at": "09:00:00",
+              "ends_at": "10:50:00",
+              "starts_on": null,
+              "ends_on": null,
+              "room": "D-101",
+              "component": null,
+              "delivery_mode": "unknown",
+              "evidence": {
+                "page": 1,
+                "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "withdraw_all": false,
+  "issues": [],
+  "ignored_events": []
+}

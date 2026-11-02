@@ -1,0 +1,578 @@
+{
+  "$defs": {
+    "DeliveryMode": {
+      "enum": [
+        "in_person",
+        "online",
+        "hybrid",
+        "unknown"
+      ],
+      "title": "DeliveryMode",
+      "type": "string"
+    },
+    "DocumentCourse": {
+      "additionalProperties": false,
+      "properties": {
+        "code": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "title": "Code",
+          "type": "string"
+        },
+        "aliases": {
+          "items": {
+            "maxLength": 2000,
+            "minLength": 1,
+            "type": "string"
+          },
+          "maxItems": 20,
+          "title": "Aliases",
+          "type": "array"
+        },
+        "name": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "title": "Name",
+          "type": "string"
+        },
+        "catalog_course_id": {
+          "anyOf": [
+            {
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Optional owner-confirmed local ID; an extraction agent must not invent this",
+          "title": "Catalog Course Id"
+        },
+        "groups": {
+          "items": {
+            "$ref": "#/$defs/DocumentGroup"
+          },
+          "maxItems": 500,
+          "minItems": 1,
+          "title": "Groups",
+          "type": "array"
+        }
+      },
+      "required": [
+        "code",
+        "name",
+        "groups"
+      ],
+      "title": "DocumentCourse",
+      "type": "object"
+    },
+    "DocumentEvidence": {
+      "additionalProperties": false,
+      "properties": {
+        "page": {
+          "anyOf": [
+            {
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Page"
+        },
+        "sheet": {
+          "anyOf": [
+            {
+              "maxLength": 2000,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Sheet"
+        },
+        "rows": {
+          "anyOf": [
+            {
+              "maxLength": 2000,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Rows"
+        },
+        "quote": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "title": "Quote",
+          "type": "string"
+        }
+      },
+      "required": [
+        "quote"
+      ],
+      "title": "DocumentEvidence",
+      "type": "object"
+    },
+    "DocumentGroup": {
+      "additionalProperties": false,
+      "properties": {
+        "label": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "title": "Label",
+          "type": "string"
+        },
+        "language": {
+          "anyOf": [
+            {
+              "maxLength": 2000,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Language"
+        },
+        "instructor": {
+          "anyOf": [
+            {
+              "maxLength": 2000,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Instructor"
+        },
+        "time_status": {
+          "enum": [
+            "scheduled",
+            "tba"
+          ],
+          "title": "Time Status",
+          "type": "string"
+        },
+        "evidence": {
+          "$ref": "#/$defs/DocumentEvidence"
+        },
+        "permissions": {
+          "$ref": "#/$defs/GroupPermissions"
+        },
+        "meetings": {
+          "items": {
+            "$ref": "#/$defs/DocumentMeeting"
+          },
+          "maxItems": 50,
+          "title": "Meetings",
+          "type": "array"
+        }
+      },
+      "required": [
+        "label",
+        "time_status",
+        "evidence"
+      ],
+      "title": "DocumentGroup",
+      "type": "object"
+    },
+    "DocumentIssue": {
+      "additionalProperties": false,
+      "properties": {
+        "severity": {
+          "enum": [
+            "warning",
+            "blocking"
+          ],
+          "title": "Severity",
+          "type": "string"
+        },
+        "message": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "title": "Message",
+          "type": "string"
+        },
+        "evidence": {
+          "$ref": "#/$defs/DocumentEvidence"
+        }
+      },
+      "required": [
+        "severity",
+        "message",
+        "evidence"
+      ],
+      "title": "DocumentIssue",
+      "type": "object"
+    },
+    "DocumentMeeting": {
+      "additionalProperties": false,
+      "properties": {
+        "weekday": {
+          "maximum": 7,
+          "minimum": 1,
+          "title": "Weekday",
+          "type": "integer"
+        },
+        "starts_at": {
+          "format": "time",
+          "title": "Starts At",
+          "type": "string"
+        },
+        "ends_at": {
+          "format": "time",
+          "title": "Ends At",
+          "type": "string"
+        },
+        "starts_on": {
+          "anyOf": [
+            {
+              "format": "date",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Starts On"
+        },
+        "ends_on": {
+          "anyOf": [
+            {
+              "format": "date",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Ends On"
+        },
+        "room": {
+          "anyOf": [
+            {
+              "maxLength": 2000,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Room"
+        },
+        "component": {
+          "anyOf": [
+            {
+              "maxLength": 2000,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Component"
+        },
+        "delivery_mode": {
+          "$ref": "#/$defs/DeliveryMode",
+          "default": "unknown"
+        },
+        "evidence": {
+          "$ref": "#/$defs/DocumentEvidence"
+        }
+      },
+      "required": [
+        "weekday",
+        "starts_at",
+        "ends_at",
+        "evidence"
+      ],
+      "title": "DocumentMeeting",
+      "type": "object"
+    },
+    "DocumentSource": {
+      "additionalProperties": false,
+      "properties": {
+        "key": {
+          "pattern": "^[a-zA-Z0-9][a-zA-Z0-9._-]{0,99}$",
+          "title": "Key",
+          "type": "string"
+        },
+        "revision": {
+          "pattern": "^[a-zA-Z0-9][a-zA-Z0-9._-]{0,99}$",
+          "title": "Revision",
+          "type": "string"
+        },
+        "replaces_revision": {
+          "anyOf": [
+            {
+              "pattern": "^[a-zA-Z0-9][a-zA-Z0-9._-]{0,99}$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Replaces Revision"
+        },
+        "publisher": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "title": "Publisher",
+          "type": "string"
+        },
+        "filename": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "title": "Filename",
+          "type": "string"
+        },
+        "url": {
+          "anyOf": [
+            {
+              "maxLength": 2000,
+              "pattern": "^https?://",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Url"
+        },
+        "sha256": {
+          "anyOf": [
+            {
+              "pattern": "^[a-f0-9]{64}$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Sha256"
+        },
+        "published_on": {
+          "anyOf": [
+            {
+              "format": "date",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Published On"
+        }
+      },
+      "required": [
+        "key",
+        "revision",
+        "publisher",
+        "filename",
+        "sha256"
+      ],
+      "title": "DocumentSource",
+      "type": "object"
+    },
+    "DocumentTerm": {
+      "additionalProperties": false,
+      "properties": {
+        "code": {
+          "pattern": "^[a-zA-Z0-9][a-zA-Z0-9._-]{0,99}$",
+          "title": "Code",
+          "type": "string"
+        },
+        "academic_year": {
+          "pattern": "^\\d{4}-\\d{4}$",
+          "title": "Academic Year",
+          "type": "string"
+        },
+        "season": {
+          "$ref": "#/$defs/Season"
+        },
+        "timezone": {
+          "const": "Europe/Istanbul",
+          "default": "Europe/Istanbul",
+          "title": "Timezone",
+          "type": "string"
+        }
+      },
+      "required": [
+        "code",
+        "academic_year",
+        "season"
+      ],
+      "title": "DocumentTerm",
+      "type": "object"
+    },
+    "GroupPermissions": {
+      "additionalProperties": false,
+      "properties": {
+        "allowed_bologna_program_ids": {
+          "anyOf": [
+            {
+              "items": {
+                "type": "integer"
+              },
+              "type": "array"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Allowed Bologna Program Ids"
+        },
+        "excluded_bologna_program_ids": {
+          "items": {
+            "type": "integer"
+          },
+          "title": "Excluded Bologna Program Ids",
+          "type": "array"
+        },
+        "note": {
+          "anyOf": [
+            {
+              "maxLength": 2000,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Note"
+        },
+        "unresolved": {
+          "default": false,
+          "title": "Unresolved",
+          "type": "boolean"
+        },
+        "evidence": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/DocumentEvidence"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        }
+      },
+      "title": "GroupPermissions",
+      "type": "object"
+    },
+    "OmittedEvent": {
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "title": "Name",
+          "type": "string"
+        },
+        "reason": {
+          "maxLength": 2000,
+          "minLength": 1,
+          "title": "Reason",
+          "type": "string"
+        },
+        "evidence": {
+          "$ref": "#/$defs/DocumentEvidence"
+        }
+      },
+      "required": [
+        "name",
+        "reason",
+        "evidence"
+      ],
+      "title": "OmittedEvent",
+      "type": "object"
+    },
+    "Season": {
+      "enum": [
+        "fall",
+        "spring",
+        "summer"
+      ],
+      "title": "Season",
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "1.0",
+      "title": "Schema Version",
+      "type": "string"
+    },
+    "source": {
+      "$ref": "#/$defs/DocumentSource"
+    },
+    "term": {
+      "$ref": "#/$defs/DocumentTerm"
+    },
+    "courses": {
+      "items": {
+        "$ref": "#/$defs/DocumentCourse"
+      },
+      "maxItems": 2000,
+      "title": "Courses",
+      "type": "array"
+    },
+    "withdraw_all": {
+      "default": false,
+      "title": "Withdraw All",
+      "type": "boolean"
+    },
+    "issues": {
+      "items": {
+        "$ref": "#/$defs/DocumentIssue"
+      },
+      "title": "Issues",
+      "type": "array"
+    },
+    "ignored_events": {
+      "items": {
+        "$ref": "#/$defs/OmittedEvent"
+      },
+      "title": "Ignored Events",
+      "type": "array"
+    }
+  },
+  "required": [
+    "schema_version",
+    "source",
+    "term",
+    "courses"
+  ],
+  "title": "ScheduleDocument",
+  "type": "object"
+}

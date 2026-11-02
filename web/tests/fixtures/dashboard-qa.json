@@ -1,0 +1,2328 @@
+{
+  "export_id": "4edaff1547bc34c5d991c402d825b3e543f271a34a2ba89ef577c0bad4f1c47c",
+  "schema_version": "1.0",
+  "purpose": "test",
+  "baseline_export_id": null,
+  "term": {
+    "code": "2026-2027-fall",
+    "academic_year": "2026-2027",
+    "season": "fall",
+    "timezone": "Europe/Istanbul",
+    "starts_on": "2026-09-21",
+    "ends_on": "2027-01-10"
+  },
+  "student_directory": {
+    "source_url": "https://yokatlas.yok.gov.tr/",
+    "verified_on": "2026-09-16",
+    "source_label": "2026-YKS (as displayed by the live Atlas directory)",
+    "filter": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL); all 63 results were 4-year degrees",
+    "policy": "Only programs present in this reviewed Atlas directory appear in student selection. Quota variants share one degree/language choice. Absence is not evidence of closure or zero enrollment.",
+    "programs": [
+      {
+        "bologna_program_id": 52,
+        "name": "İletişim ve Tasarımı Lisans Programı",
+        "atlas_program_codes": [
+          110190096
+        ]
+      },
+      {
+        "bologna_program_id": 535,
+        "name": "İktisat Lisans Programı (%100 İngilizce)",
+        "atlas_program_codes": [
+          110110507
+        ]
+      },
+      {
+        "bologna_program_id": 539,
+        "name": "İşletme Lisans Programı (%100 İngilizce)",
+        "atlas_program_codes": [
+          110190084
+        ]
+      },
+      {
+        "bologna_program_id": 108,
+        "name": "Okulöncesi Eğitimi Lisans Programı",
+        "atlas_program_codes": [
+          110110367
+        ]
+      },
+      {
+        "bologna_program_id": 96,
+        "name": "İngilizce Öğretmenliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110022
+        ]
+      },
+      {
+        "bologna_program_id": 201,
+        "name": "Fransızca Mütercim Tercümanlık Lisans Programı (2018 versiyon)",
+        "atlas_program_codes": [
+          110190095
+        ]
+      },
+      {
+        "bologna_program_id": 55,
+        "name": "İşletme Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110137
+        ]
+      },
+      {
+        "bologna_program_id": 54,
+        "name": "İktisat Lisans Programı",
+        "atlas_program_codes": [
+          110190119
+        ]
+      },
+      {
+        "bologna_program_id": 35,
+        "name": "Türkçe Eğitimi Lisans Programı",
+        "atlas_program_codes": [
+          110110394
+        ]
+      },
+      {
+        "bologna_program_id": 27,
+        "name": "Türk Dili ve Edebiyatı Lisans Programı",
+        "atlas_program_codes": [
+          110110119
+        ]
+      },
+      {
+        "bologna_program_id": 222,
+        "name": "Matematik Mühendisliği Lisans Programı (%100 İngilizce)",
+        "atlas_program_codes": [
+          110110349,
+          110100101
+        ]
+      },
+      {
+        "bologna_program_id": 281,
+        "name": "Fotoğraf ve Video Lisans Programı",
+        "atlas_program_codes": [
+          110110597
+        ]
+      },
+      {
+        "bologna_program_id": 550,
+        "name": "Bilgisayar Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110031
+        ]
+      },
+      {
+        "bologna_program_id": 405,
+        "name": "Endüstri Mühendisliği Lisans Programı (%100 İngilizce)",
+        "atlas_program_codes": [
+          110110464
+        ]
+      },
+      {
+        "bologna_program_id": 557,
+        "name": "Yapay Zeka ve Veri Mühendisliği Lisans Programı (%100 İngilizce)",
+        "atlas_program_codes": [
+          110190133,
+          110190147
+        ]
+      },
+      {
+        "bologna_program_id": 6,
+        "name": "Elektronik & Haberleşme Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110058
+        ]
+      },
+      {
+        "bologna_program_id": 37,
+        "name": "Matematik Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110207,
+          110190085
+        ]
+      },
+      {
+        "bologna_program_id": 45,
+        "name": "Endüstri Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110225
+        ]
+      },
+      {
+        "bologna_program_id": 403,
+        "name": "Kontrol ve Otomasyon Mühendisliği Lisans Programı (%100 İngilizce)",
+        "atlas_program_codes": [
+          110110428
+        ]
+      },
+      {
+        "bologna_program_id": 29,
+        "name": "Kontrol ve Otomasyon Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110304,
+          110190086
+        ]
+      },
+      {
+        "bologna_program_id": 391,
+        "name": "Makine Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110243
+        ]
+      },
+      {
+        "bologna_program_id": 404,
+        "name": "Mekatronik Mühendisliği Lisans Programı (%100 İngilizce)",
+        "atlas_program_codes": [
+          110110473,
+          110190098
+        ]
+      },
+      {
+        "bologna_program_id": 110,
+        "name": "Sosyal Bilgiler Eğitimi Lisans Programı",
+        "atlas_program_codes": [
+          110110385
+        ]
+      },
+      {
+        "bologna_program_id": 7,
+        "name": "Elektrik Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110049
+        ]
+      },
+      {
+        "bologna_program_id": 398,
+        "name": "Kimya Mühendisliği Lisans Programı (%100 İngilizce)",
+        "atlas_program_codes": [
+          110110491
+        ]
+      },
+      {
+        "bologna_program_id": 263,
+        "name": "Sanat ve Kültür Yönetimi Lisans Programı",
+        "atlas_program_codes": [
+          110190094
+        ]
+      },
+      {
+        "bologna_program_id": 46,
+        "name": "Mekatronik Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110279
+        ]
+      },
+      {
+        "bologna_program_id": 56,
+        "name": "Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110146
+        ]
+      },
+      {
+        "bologna_program_id": 36,
+        "name": "Kimya Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110191,
+          110110561
+        ]
+      },
+      {
+        "bologna_program_id": 48,
+        "name": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110234
+        ]
+      },
+      {
+        "bologna_program_id": 401,
+        "name": "Metalürji ve Malzeme Mühendisliği Lisans Programı (%100 İngilizce)",
+        "atlas_program_codes": [
+          110110455
+        ]
+      },
+      {
+        "bologna_program_id": 38,
+        "name": "Metalürji ve Malzeme Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110216
+        ]
+      },
+      {
+        "bologna_program_id": 9,
+        "name": "İstatistik Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110076
+        ]
+      },
+      {
+        "bologna_program_id": 109,
+        "name": "Sınıf Öğretmenliği Lisans Programı",
+        "atlas_program_codes": [
+          110110376
+        ]
+      },
+      {
+        "bologna_program_id": 183,
+        "name": "Rehberlik ve Psikolojik Danışmanlık Lisans Programı",
+        "atlas_program_codes": [
+          110110313
+        ]
+      },
+      {
+        "bologna_program_id": 141,
+        "name": "Gemi Makineleri İşletme Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110288
+        ]
+      },
+      {
+        "bologna_program_id": 397,
+        "name": "İnşaat Mühendisliği Lisans Programı (%100 İngilizce)",
+        "atlas_program_codes": [
+          110110437
+        ]
+      },
+      {
+        "bologna_program_id": 163,
+        "name": "Biyomühendislik Lisans Programı (%100 İngilizce)",
+        "atlas_program_codes": [
+          110110331
+        ]
+      },
+      {
+        "bologna_program_id": 147,
+        "name": "Biyomühendislik Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110182
+        ]
+      },
+      {
+        "bologna_program_id": 504,
+        "name": "Biyomedikal Mühendisliği Lisans Programı (%100 İngilizce)",
+        "atlas_program_codes": [
+          110190089,
+          110190140
+        ]
+      },
+      {
+        "bologna_program_id": 26,
+        "name": "Matematik Lisans Programı",
+        "atlas_program_codes": [
+          110110094
+        ]
+      },
+      {
+        "bologna_program_id": 429,
+        "name": "Mimarlık Lisans Programı (%100 İngilizce)",
+        "atlas_program_codes": [
+          110110482
+        ]
+      },
+      {
+        "bologna_program_id": 40,
+        "name": "İnşaat Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110164
+        ]
+      },
+      {
+        "bologna_program_id": 195,
+        "name": "Gıda Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110401
+        ]
+      },
+      {
+        "bologna_program_id": 191,
+        "name": "Moleküler Biyoloji ve Genetik Lisans Programı",
+        "atlas_program_codes": [
+          110110419
+        ]
+      },
+      {
+        "bologna_program_id": 396,
+        "name": "Kimya Lisans Programı (%100 İngilizce)",
+        "atlas_program_codes": [
+          110110446
+        ]
+      },
+      {
+        "bologna_program_id": 50,
+        "name": "Mimarlık Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110252
+        ]
+      },
+      {
+        "bologna_program_id": 10,
+        "name": "Kimya Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110085
+        ]
+      },
+      {
+        "bologna_program_id": 43,
+        "name": "Çevre Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110155
+        ]
+      },
+      {
+        "bologna_program_id": 25,
+        "name": "Fizik Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110067
+        ]
+      },
+      {
+        "bologna_program_id": 44,
+        "name": "Harita Mühendisliği Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110297
+        ]
+      },
+      {
+        "bologna_program_id": 107,
+        "name": "İlköğretim Matematik Eğitimi Lisans Programı",
+        "atlas_program_codes": [
+          110110322
+        ]
+      },
+      {
+        "bologna_program_id": 51,
+        "name": "Şehir ve Bölge Planlama Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110261
+        ]
+      },
+      {
+        "bologna_program_id": 31,
+        "name": "Bilgisayar ve Öğretim Teknolojileri Eğitimi Lisans Programı (%30 İngilizce)",
+        "atlas_program_codes": [
+          110110013
+        ]
+      },
+      {
+        "bologna_program_id": 106,
+        "name": "Fen Bilgisi Eğitimi Lisans Programı",
+        "atlas_program_codes": [
+          110110358
+        ]
+      },
+      {
+        "bologna_program_id": 487,
+        "name": "Kültür Varlıklarını Koruma ve Onarım Lisans Programı",
+        "atlas_program_codes": [
+          110190088
+        ]
+      }
+    ],
+    "not_listed_bologna_ids": [
+      206,
+      207,
+      208,
+      259,
+      511,
+      513,
+      516
+    ]
+  },
+  "sources": [
+    {
+      "key": "example-physics",
+      "revision": "example-1",
+      "replaces_revision": null,
+      "publisher": "Example Physics",
+      "filename": "schedule-source.txt",
+      "url": null,
+      "sha256": "d67a6fede17f41ea761872bb9ffad940ec69a711c5500694bc35f8925e7cf988",
+      "published_on": null,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "document_sha256": "f094993cc69ce45a545dec9c3add6f7b439420c8134dbcc536973527179e3f74",
+      "withdrawn": false
+    }
+  ],
+  "programs": [
+    {
+      "bologna_program_id": 9,
+      "name": "Program 9",
+      "curriculum": {
+        "id": 2,
+        "sha256": "2222222222222222222222222222222222222222222222222222222222222222",
+        "verified_at": "2026-09-01T00:00:00"
+      },
+      "course_permissions": []
+    },
+    {
+      "bologna_program_id": 25,
+      "name": "Program 25",
+      "curriculum": {
+        "id": 1,
+        "sha256": "1111111111111111111111111111111111111111111111111111111111111111",
+        "verified_at": "2026-09-01T00:00:00"
+      },
+      "course_permissions": [
+        {
+          "catalog_course_id": 1,
+          "status": "eligible",
+          "classifications": [
+            {
+              "category": "compulsory",
+              "year": 1,
+              "season": "fall"
+            }
+          ]
+        },
+        {
+          "catalog_course_id": 2,
+          "status": "eligible",
+          "classifications": [
+            {
+              "category": "professional_elective",
+              "year": 2,
+              "season": "fall"
+            }
+          ]
+        },
+        {
+          "catalog_course_id": 3,
+          "status": "eligible",
+          "classifications": [
+            {
+              "category": "compulsory",
+              "year": 3,
+              "season": "fall"
+            }
+          ]
+        },
+        {
+          "catalog_course_id": 4,
+          "status": "eligible",
+          "classifications": [
+            {
+              "category": "professional_elective",
+              "year": 4,
+              "season": "fall"
+            }
+          ]
+        },
+        {
+          "catalog_course_id": 5,
+          "status": "eligible",
+          "classifications": [
+            {
+              "category": "compulsory",
+              "year": 1,
+              "season": "fall"
+            }
+          ]
+        },
+        {
+          "catalog_course_id": 6,
+          "status": "eligible",
+          "classifications": [
+            {
+              "category": "professional_elective",
+              "year": 2,
+              "season": "fall"
+            }
+          ]
+        },
+        {
+          "catalog_course_id": 7,
+          "status": "eligible",
+          "classifications": [
+            {
+              "category": "compulsory",
+              "year": 3,
+              "season": "fall"
+            }
+          ]
+        },
+        {
+          "catalog_course_id": 8,
+          "status": "eligible",
+          "classifications": [
+            {
+              "category": "professional_elective",
+              "year": 4,
+              "season": "fall"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "program_id": null,
+      "bologna_program_id": 31,
+      "name": "Bilgisayar ve Öğretim Teknolojileri Eğitimi Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=31&aid=20",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 183,
+      "name": "Rehberlik ve Psikolojik Danışmanlık Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=183&aid=133",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 106,
+      "name": "Fen Bilgisi Eğitimi Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=106&aid=127",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 107,
+      "name": "İlköğretim Matematik Eğitimi Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=107&aid=128",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 108,
+      "name": "Okulöncesi Eğitimi Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=108&aid=130",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 109,
+      "name": "Sınıf Öğretmenliği Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=109&aid=131",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 110,
+      "name": "Sosyal Bilgiler Eğitimi Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=110&aid=132",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 35,
+      "name": "Türkçe Eğitimi Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=35&aid=161",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 96,
+      "name": "İngilizce Öğretmenliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=96&aid=21",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 550,
+      "name": "Bilgisayar Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=550&aid=3",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 504,
+      "name": "Biyomedikal Mühendisliği Lisans Programı (%100 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=504&aid=151",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 7,
+      "name": "Elektrik Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=7&aid=4",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 6,
+      "name": "Elektronik & Haberleşme Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=6&aid=5",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 29,
+      "name": "Kontrol ve Otomasyon Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=29&aid=18",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 403,
+      "name": "Kontrol ve Otomasyon Mühendisliği Lisans Programı (%100 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=403&aid=18",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 557,
+      "name": "Yapay Zeka ve Veri Mühendisliği Lisans Programı (%100 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=557&aid=181",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 201,
+      "name": "Fransızca Mütercim Tercümanlık Lisans Programı (2018 versiyon)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=201&aid=8",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": 1,
+      "bologna_program_id": 25,
+      "name": "Fizik Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=25&aid=10",
+      "status": "incomplete",
+      "snapshot_id": 1,
+      "verified_at": "2026-09-01T00:00:00",
+      "semesters": [
+        1
+      ],
+      "courses": 1,
+      "requirements": 1,
+      "issues": [
+        "Missing undergraduate semesters"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 1,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": 2,
+      "bologna_program_id": 9,
+      "name": "İstatistik Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=9&aid=11",
+      "status": "incomplete",
+      "snapshot_id": 2,
+      "verified_at": "2026-09-01T00:00:00",
+      "semesters": [
+        1
+      ],
+      "courses": 1,
+      "requirements": 1,
+      "issues": [
+        "Missing undergraduate semesters"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 10,
+      "name": "Kimya Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=10&aid=12",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 396,
+      "name": "Kimya Lisans Programı (%100 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=396&aid=12",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 26,
+      "name": "Matematik Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=26&aid=13",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 191,
+      "name": "Moleküler Biyoloji ve Genetik Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=191&aid=9",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 27,
+      "name": "Türk Dili ve Edebiyatı Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=27&aid=16",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 48,
+      "name": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=48&aid=35",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 141,
+      "name": "Gemi Makineleri İşletme Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=141&aid=36",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 54,
+      "name": "İktisat Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=54&aid=45",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 535,
+      "name": "İktisat Lisans Programı (%100 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=535&aid=45",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 55,
+      "name": "İşletme Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=55&aid=46",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 539,
+      "name": "İşletme Lisans Programı (%100 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=539&aid=46",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 56,
+      "name": "Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=56&aid=47",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 43,
+      "name": "Çevre Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=43&aid=29",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 44,
+      "name": "Harita Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=44&aid=30",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 40,
+      "name": "İnşaat Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=40&aid=28",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 397,
+      "name": "İnşaat Mühendisliği Lisans Programı (%100 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=397&aid=28",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 147,
+      "name": "Biyomühendislik Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=147&aid=26",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 163,
+      "name": "Biyomühendislik Lisans Programı (%100 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=163&aid=26",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 195,
+      "name": "Gıda Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=195&aid=109",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 36,
+      "name": "Kimya Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=36&aid=23",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 398,
+      "name": "Kimya Mühendisliği Lisans Programı (%100 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=398&aid=23",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 37,
+      "name": "Matematik Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=37&aid=24",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 222,
+      "name": "Matematik Mühendisliği Lisans Programı (%100 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=222&aid=24",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 38,
+      "name": "Metalürji ve Malzeme Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=38&aid=25",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 401,
+      "name": "Metalürji ve Malzeme Mühendisliği Lisans Programı (%100 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=401&aid=25",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 45,
+      "name": "Endüstri Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=45&aid=32",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 405,
+      "name": "Endüstri Mühendisliği Lisans Programı (%100 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=405&aid=32",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 391,
+      "name": "Makine Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=391&aid=97",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 46,
+      "name": "Mekatronik Mühendisliği Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=46&aid=33",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 404,
+      "name": "Mekatronik Mühendisliği Lisans Programı (%100 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=404&aid=33",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 487,
+      "name": "Kültür Varlıklarını Koruma ve Onarım Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=487&aid=149",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 50,
+      "name": "Mimarlık Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=50&aid=38",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 429,
+      "name": "Mimarlık Lisans Programı (%100 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=429&aid=38",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 51,
+      "name": "Şehir ve Bölge Planlama Lisans Programı (%30 İngilizce)",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=51&aid=39",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 52,
+      "name": "İletişim ve Tasarımı Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=52&aid=42",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 263,
+      "name": "Sanat ve Kültür Yönetimi Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=263&aid=41",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    },
+    {
+      "program_id": null,
+      "bologna_program_id": 281,
+      "name": "Fotoğraf ve Video Lisans Programı",
+      "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/view&id=281&aid=41",
+      "status": "missing",
+      "snapshot_id": null,
+      "verified_at": null,
+      "semesters": [],
+      "courses": 0,
+      "requirements": 0,
+      "issues": [
+        "No validated curriculum imported"
+      ],
+      "ambiguous_course_codes": [],
+      "offered_curriculum_courses": null,
+      "exported_eligible_courses": 0,
+      "timetable_completeness": "not_established"
+    }
+  ],
+  "courses": [
+    {
+      "catalog_course_id": 1,
+      "code": "QA001",
+      "name": "ÖRNEK Ders 1",
+      "ects": null,
+      "prerequisite_text": null
+    },
+    {
+      "catalog_course_id": 2,
+      "code": "QA002",
+      "name": "ÖRNEK Ders 2",
+      "ects": null,
+      "prerequisite_text": null
+    },
+    {
+      "catalog_course_id": 3,
+      "code": "QA003",
+      "name": "ÖRNEK Ders 3",
+      "ects": null,
+      "prerequisite_text": null
+    },
+    {
+      "catalog_course_id": 4,
+      "code": "QA004",
+      "name": "ÖRNEK Ders 4",
+      "ects": null,
+      "prerequisite_text": null
+    },
+    {
+      "catalog_course_id": 5,
+      "code": "QA005",
+      "name": "ÖRNEK Ders 5",
+      "ects": null,
+      "prerequisite_text": null
+    },
+    {
+      "catalog_course_id": 6,
+      "code": "QA006",
+      "name": "ÖRNEK Ders 6",
+      "ects": null,
+      "prerequisite_text": null
+    },
+    {
+      "catalog_course_id": 7,
+      "code": "QA007",
+      "name": "ÖRNEK Ders 7",
+      "ects": null,
+      "prerequisite_text": null
+    },
+    {
+      "catalog_course_id": 8,
+      "code": "QA008",
+      "name": "ÖRNEK Ders 8",
+      "ects": null,
+      "prerequisite_text": null
+    }
+  ],
+  "groups": [
+    {
+      "label": "Gr.1",
+      "language": null,
+      "instructor": null,
+      "time_status": "scheduled",
+      "evidence": {
+        "page": 1,
+        "sheet": null,
+        "rows": null,
+        "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+      },
+      "permissions": {
+        "allowed_bologna_program_ids": [
+          25
+        ],
+        "excluded_bologna_program_ids": [],
+        "unresolved": false
+      },
+      "meetings": [
+        {
+          "weekday": 1,
+          "starts_at": "09:00:00",
+          "ends_at": "10:00:00",
+          "starts_on": null,
+          "ends_on": null,
+          "room": "D-101",
+          "component": null,
+          "delivery_mode": "unknown",
+          "evidence": {
+            "page": 1,
+            "sheet": null,
+            "rows": null,
+            "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+          },
+          "effective_starts_on": "2026-09-21",
+          "effective_ends_on": "2027-01-10"
+        }
+      ],
+      "id": "f73a8b6503a6617083bd09bf7ce5e14427f3e15ba21f2c423eba019b6414f314",
+      "catalog_course_id": 1,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "source_key": "example-physics",
+      "publisher": "Example Physics",
+      "eligible_bologna_program_ids": [
+        25
+      ]
+    },
+    {
+      "label": "Gr.2",
+      "language": null,
+      "instructor": null,
+      "time_status": "scheduled",
+      "evidence": {
+        "page": 1,
+        "sheet": null,
+        "rows": null,
+        "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+      },
+      "permissions": {
+        "allowed_bologna_program_ids": [
+          25
+        ],
+        "excluded_bologna_program_ids": [],
+        "unresolved": false
+      },
+      "meetings": [
+        {
+          "weekday": 2,
+          "starts_at": "09:00:00",
+          "ends_at": "10:00:00",
+          "starts_on": null,
+          "ends_on": null,
+          "room": "D-101",
+          "component": null,
+          "delivery_mode": "unknown",
+          "evidence": {
+            "page": 1,
+            "sheet": null,
+            "rows": null,
+            "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+          },
+          "effective_starts_on": "2026-09-21",
+          "effective_ends_on": "2027-01-10"
+        }
+      ],
+      "id": "83c8549250f677d68bf915404dbb47f8120c37af16e880b8e00cc4d41cde261e",
+      "catalog_course_id": 1,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "source_key": "example-physics",
+      "publisher": "Example Physics",
+      "eligible_bologna_program_ids": [
+        25
+      ]
+    },
+    {
+      "label": "Gr.1",
+      "language": null,
+      "instructor": null,
+      "time_status": "scheduled",
+      "evidence": {
+        "page": 1,
+        "sheet": null,
+        "rows": null,
+        "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+      },
+      "permissions": {
+        "allowed_bologna_program_ids": [
+          25
+        ],
+        "excluded_bologna_program_ids": [],
+        "unresolved": false
+      },
+      "meetings": [
+        {
+          "weekday": 1,
+          "starts_at": "09:00:00",
+          "ends_at": "10:00:00",
+          "starts_on": null,
+          "ends_on": null,
+          "room": "D-101",
+          "component": null,
+          "delivery_mode": "unknown",
+          "evidence": {
+            "page": 1,
+            "sheet": null,
+            "rows": null,
+            "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+          },
+          "effective_starts_on": "2026-09-21",
+          "effective_ends_on": "2027-01-10"
+        }
+      ],
+      "id": "f8d8f27258cce949563d8a15d5956fe40661eb15db77cc0e92501e7455c3044a",
+      "catalog_course_id": 2,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "source_key": "example-physics",
+      "publisher": "Example Physics",
+      "eligible_bologna_program_ids": [
+        25
+      ]
+    },
+    {
+      "label": "Gr.2",
+      "language": null,
+      "instructor": null,
+      "time_status": "scheduled",
+      "evidence": {
+        "page": 1,
+        "sheet": null,
+        "rows": null,
+        "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+      },
+      "permissions": {
+        "allowed_bologna_program_ids": [
+          25
+        ],
+        "excluded_bologna_program_ids": [],
+        "unresolved": false
+      },
+      "meetings": [
+        {
+          "weekday": 2,
+          "starts_at": "09:00:00",
+          "ends_at": "10:00:00",
+          "starts_on": null,
+          "ends_on": null,
+          "room": "D-101",
+          "component": null,
+          "delivery_mode": "unknown",
+          "evidence": {
+            "page": 1,
+            "sheet": null,
+            "rows": null,
+            "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+          },
+          "effective_starts_on": "2026-09-21",
+          "effective_ends_on": "2027-01-10"
+        }
+      ],
+      "id": "7fa3e777b50b425207cc2d7c5a485801e3dc2aa21ffd94fdea8209a7ab22bd4e",
+      "catalog_course_id": 2,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "source_key": "example-physics",
+      "publisher": "Example Physics",
+      "eligible_bologna_program_ids": [
+        25
+      ]
+    },
+    {
+      "label": "Gr.1",
+      "language": null,
+      "instructor": null,
+      "time_status": "scheduled",
+      "evidence": {
+        "page": 1,
+        "sheet": null,
+        "rows": null,
+        "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+      },
+      "permissions": {
+        "allowed_bologna_program_ids": [
+          25
+        ],
+        "excluded_bologna_program_ids": [],
+        "unresolved": false
+      },
+      "meetings": [
+        {
+          "weekday": 1,
+          "starts_at": "11:00:00",
+          "ends_at": "12:00:00",
+          "starts_on": null,
+          "ends_on": null,
+          "room": "D-101",
+          "component": null,
+          "delivery_mode": "unknown",
+          "evidence": {
+            "page": 1,
+            "sheet": null,
+            "rows": null,
+            "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+          },
+          "effective_starts_on": "2026-09-21",
+          "effective_ends_on": "2027-01-10"
+        }
+      ],
+      "id": "aff027a119aaacd681cb506b7a7a226e762d6293131fcb0a34a6c177cbf05821",
+      "catalog_course_id": 3,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "source_key": "example-physics",
+      "publisher": "Example Physics",
+      "eligible_bologna_program_ids": [
+        25
+      ]
+    },
+    {
+      "label": "Gr.2",
+      "language": null,
+      "instructor": null,
+      "time_status": "scheduled",
+      "evidence": {
+        "page": 1,
+        "sheet": null,
+        "rows": null,
+        "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+      },
+      "permissions": {
+        "allowed_bologna_program_ids": [
+          25
+        ],
+        "excluded_bologna_program_ids": [],
+        "unresolved": false
+      },
+      "meetings": [
+        {
+          "weekday": 2,
+          "starts_at": "11:00:00",
+          "ends_at": "12:00:00",
+          "starts_on": null,
+          "ends_on": null,
+          "room": "D-101",
+          "component": null,
+          "delivery_mode": "unknown",
+          "evidence": {
+            "page": 1,
+            "sheet": null,
+            "rows": null,
+            "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+          },
+          "effective_starts_on": "2026-09-21",
+          "effective_ends_on": "2027-01-10"
+        }
+      ],
+      "id": "65ff716172f50d737cf9b9ace1d721567f0d3a2ec47808a6262de8ff3d6073ac",
+      "catalog_course_id": 3,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "source_key": "example-physics",
+      "publisher": "Example Physics",
+      "eligible_bologna_program_ids": [
+        25
+      ]
+    },
+    {
+      "label": "Gr.1",
+      "language": null,
+      "instructor": null,
+      "time_status": "scheduled",
+      "evidence": {
+        "page": 1,
+        "sheet": null,
+        "rows": null,
+        "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+      },
+      "permissions": {
+        "allowed_bologna_program_ids": [
+          25
+        ],
+        "excluded_bologna_program_ids": [],
+        "unresolved": false
+      },
+      "meetings": [
+        {
+          "weekday": 1,
+          "starts_at": "11:00:00",
+          "ends_at": "12:00:00",
+          "starts_on": null,
+          "ends_on": null,
+          "room": "D-101",
+          "component": null,
+          "delivery_mode": "unknown",
+          "evidence": {
+            "page": 1,
+            "sheet": null,
+            "rows": null,
+            "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+          },
+          "effective_starts_on": "2026-09-21",
+          "effective_ends_on": "2027-01-10"
+        }
+      ],
+      "id": "5f88e6558b121683fefe9da5bd32ed1f0dc347d78b9b14b84003659ee2f2569c",
+      "catalog_course_id": 4,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "source_key": "example-physics",
+      "publisher": "Example Physics",
+      "eligible_bologna_program_ids": [
+        25
+      ]
+    },
+    {
+      "label": "Gr.2",
+      "language": null,
+      "instructor": null,
+      "time_status": "scheduled",
+      "evidence": {
+        "page": 1,
+        "sheet": null,
+        "rows": null,
+        "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+      },
+      "permissions": {
+        "allowed_bologna_program_ids": [
+          25
+        ],
+        "excluded_bologna_program_ids": [],
+        "unresolved": false
+      },
+      "meetings": [
+        {
+          "weekday": 2,
+          "starts_at": "11:00:00",
+          "ends_at": "12:00:00",
+          "starts_on": null,
+          "ends_on": null,
+          "room": "D-101",
+          "component": null,
+          "delivery_mode": "unknown",
+          "evidence": {
+            "page": 1,
+            "sheet": null,
+            "rows": null,
+            "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+          },
+          "effective_starts_on": "2026-09-21",
+          "effective_ends_on": "2027-01-10"
+        }
+      ],
+      "id": "b7f74f96002c2ffd5caefedccb978ca37fb19dfc6bbab1169239a616455947f4",
+      "catalog_course_id": 4,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "source_key": "example-physics",
+      "publisher": "Example Physics",
+      "eligible_bologna_program_ids": [
+        25
+      ]
+    },
+    {
+      "label": "Gr.1",
+      "language": null,
+      "instructor": null,
+      "time_status": "scheduled",
+      "evidence": {
+        "page": 1,
+        "sheet": null,
+        "rows": null,
+        "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+      },
+      "permissions": {
+        "allowed_bologna_program_ids": [
+          25
+        ],
+        "excluded_bologna_program_ids": [],
+        "unresolved": false
+      },
+      "meetings": [
+        {
+          "weekday": 1,
+          "starts_at": "13:00:00",
+          "ends_at": "14:00:00",
+          "starts_on": null,
+          "ends_on": null,
+          "room": "D-101",
+          "component": null,
+          "delivery_mode": "unknown",
+          "evidence": {
+            "page": 1,
+            "sheet": null,
+            "rows": null,
+            "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+          },
+          "effective_starts_on": "2026-09-21",
+          "effective_ends_on": "2027-01-10"
+        }
+      ],
+      "id": "2b65b121c284c576e6b7a937bd576745faee950b63edc2da0ae597dc4578da96",
+      "catalog_course_id": 5,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "source_key": "example-physics",
+      "publisher": "Example Physics",
+      "eligible_bologna_program_ids": [
+        25
+      ]
+    },
+    {
+      "label": "Gr.2",
+      "language": null,
+      "instructor": null,
+      "time_status": "scheduled",
+      "evidence": {
+        "page": 1,
+        "sheet": null,
+        "rows": null,
+        "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+      },
+      "permissions": {
+        "allowed_bologna_program_ids": [
+          25
+        ],
+        "excluded_bologna_program_ids": [],
+        "unresolved": false
+      },
+      "meetings": [
+        {
+          "weekday": 2,
+          "starts_at": "13:00:00",
+          "ends_at": "14:00:00",
+          "starts_on": null,
+          "ends_on": null,
+          "room": "D-101",
+          "component": null,
+          "delivery_mode": "unknown",
+          "evidence": {
+            "page": 1,
+            "sheet": null,
+            "rows": null,
+            "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+          },
+          "effective_starts_on": "2026-09-21",
+          "effective_ends_on": "2027-01-10"
+        }
+      ],
+      "id": "880263756b32d6d3a58733ed0e8a4abb7761eca2071c5fcc54ad4c39b3160943",
+      "catalog_course_id": 5,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "source_key": "example-physics",
+      "publisher": "Example Physics",
+      "eligible_bologna_program_ids": [
+        25
+      ]
+    },
+    {
+      "label": "Gr.1",
+      "language": null,
+      "instructor": null,
+      "time_status": "scheduled",
+      "evidence": {
+        "page": 1,
+        "sheet": null,
+        "rows": null,
+        "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+      },
+      "permissions": {
+        "allowed_bologna_program_ids": [
+          25
+        ],
+        "excluded_bologna_program_ids": [],
+        "unresolved": false
+      },
+      "meetings": [
+        {
+          "weekday": 1,
+          "starts_at": "13:00:00",
+          "ends_at": "14:00:00",
+          "starts_on": null,
+          "ends_on": null,
+          "room": "D-101",
+          "component": null,
+          "delivery_mode": "unknown",
+          "evidence": {
+            "page": 1,
+            "sheet": null,
+            "rows": null,
+            "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+          },
+          "effective_starts_on": "2026-09-21",
+          "effective_ends_on": "2027-01-10"
+        }
+      ],
+      "id": "dea9aae5515f549a7ec02c4d528a915893f380510ef285cc7c398d967f9962f4",
+      "catalog_course_id": 6,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "source_key": "example-physics",
+      "publisher": "Example Physics",
+      "eligible_bologna_program_ids": [
+        25
+      ]
+    },
+    {
+      "label": "Gr.2",
+      "language": null,
+      "instructor": null,
+      "time_status": "scheduled",
+      "evidence": {
+        "page": 1,
+        "sheet": null,
+        "rows": null,
+        "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+      },
+      "permissions": {
+        "allowed_bologna_program_ids": [
+          25
+        ],
+        "excluded_bologna_program_ids": [],
+        "unresolved": false
+      },
+      "meetings": [
+        {
+          "weekday": 2,
+          "starts_at": "13:00:00",
+          "ends_at": "14:00:00",
+          "starts_on": null,
+          "ends_on": null,
+          "room": "D-101",
+          "component": null,
+          "delivery_mode": "unknown",
+          "evidence": {
+            "page": 1,
+            "sheet": null,
+            "rows": null,
+            "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+          },
+          "effective_starts_on": "2026-09-21",
+          "effective_ends_on": "2027-01-10"
+        }
+      ],
+      "id": "ebe3b097b2662204c20b418d0a5686b46a1fcdd08ac2311e59596393fa9c4576",
+      "catalog_course_id": 6,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "source_key": "example-physics",
+      "publisher": "Example Physics",
+      "eligible_bologna_program_ids": [
+        25
+      ]
+    },
+    {
+      "label": "Gr.1",
+      "language": null,
+      "instructor": null,
+      "time_status": "tba",
+      "evidence": {
+        "page": 1,
+        "sheet": null,
+        "rows": null,
+        "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+      },
+      "permissions": {
+        "allowed_bologna_program_ids": [
+          25
+        ],
+        "excluded_bologna_program_ids": [],
+        "unresolved": false
+      },
+      "meetings": [],
+      "id": "a18ff761522b1f92212d5557e061fca17df519e349573644be50b1a54b4a3801",
+      "catalog_course_id": 7,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "source_key": "example-physics",
+      "publisher": "Example Physics",
+      "eligible_bologna_program_ids": [
+        25
+      ]
+    },
+    {
+      "label": "Gr.1",
+      "language": null,
+      "instructor": null,
+      "time_status": "scheduled",
+      "evidence": {
+        "page": 1,
+        "sheet": null,
+        "rows": null,
+        "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+      },
+      "permissions": {
+        "allowed_bologna_program_ids": [
+          25
+        ],
+        "excluded_bologna_program_ids": [],
+        "unresolved": false
+      },
+      "meetings": [
+        {
+          "weekday": 7,
+          "starts_at": "22:00:00",
+          "ends_at": "23:00:00",
+          "starts_on": null,
+          "ends_on": null,
+          "room": "D-101",
+          "component": null,
+          "delivery_mode": "unknown",
+          "evidence": {
+            "page": 1,
+            "sheet": null,
+            "rows": null,
+            "quote": "FIZ1111 Fizik 1 — Gr.1 — Pazartesi 09:00-10:50 — D-101"
+          },
+          "effective_starts_on": "2026-09-21",
+          "effective_ends_on": "2027-01-10"
+        }
+      ],
+      "id": "741f3184e16390098aec08ef368d57f708a6000dfab8245e1faf035acf960415",
+      "catalog_course_id": 8,
+      "draft_id": "be86bf725d8ebbd9fe361b1be50e77c03d9533499d89400eb5a8bee7ad2491de",
+      "source_key": "example-physics",
+      "publisher": "Example Physics",
+      "eligible_bologna_program_ids": [
+        25
+      ]
+    }
+  ],
+  "eligibility_rule": "group eligible IDs already intersect course and group permissions; allow when any selected major is in that group's eligible IDs",
+  "holiday_exceptions": null
+}

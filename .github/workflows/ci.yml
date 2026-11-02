@@ -1,0 +1,56 @@
+name: Repository checks
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '26'
+          cache: npm
+          cache-dependency-path: |
+            web/package-lock.json
+            local-owner/package-lock.json
+      - name: Check public repository contents
+        run: python scripts/check_public_repository.py
+      - name: Install uv
+        run: python -m pip install uv==0.12.10
+      - name: Install backend
+        working-directory: api
+        run: uv sync --locked --all-groups
+      - name: Backend checks
+        working-directory: api
+        run: |
+          uv run ruff check .
+          uv run pytest
+          YTU_DATABASE_URL=sqlite:////tmp/ytu-ci-migration.db uv run alembic upgrade head
+      - name: Install student app
+        working-directory: web
+        run: npm ci
+      - name: Student checks
+        working-directory: web
+        run: |
+          npm test
+          npm run lint
+          npm run typecheck
+      - name: Install and check owner app
+        working-directory: local-owner
+        run: |
+          npm ci
+          npm run lint
+          npm run typecheck
+      - name: Static compilation check (no timetable data)
+        working-directory: web
+        env:
+          NEXT_PUBLIC_STUDENT_PACKAGE_URL: /data/not-published.json
+          NEXT_PUBLIC_ALLOW_TEST_PACKAGE: 'false'
+          NEXT_PUBLIC_ALLOW_WEEKLY_PREVIEW: 'false'
+        run: npm run build

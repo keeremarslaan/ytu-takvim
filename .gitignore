@@ -1,0 +1,66 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+*.db
+api/data/
+api/dist/
+web/.next/
+web/out/
+web/node_modules/
+web/.env.local
+
+local-owner/node_modules/
+local-owner/.next/
+local-owner/*.tsbuildinfo
+node_modules
+next-env.d.ts
+
+# Credentials and generated files (safe examples are committed).
+.env*
+!.env.example
+!.env.local.example
+*.tsbuildinfo
+*.log
+*.pem
+*.key
+*.db-*
+*.sqlite*
+.vercel/
+.idea/
+.vscode/
+.impeccable/
+
+# Original schedules, exports, private regressions and local working history.
+*.pdf
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.zip
+web/public/**/*.json
+web/public/*.json
+web/private-tests/
+web/scripts/pilot-preview.mts
+HANDOVER.md
+BUILD_PROGRESS.md
+docs/FOUR_DEPARTMENT_PILOT.md
+docs/qa/*
+!docs/qa/README.md
+
+# Publish only documentation intended for repository visitors.
+# Agent instructions, prompts, design notes, QA journals and handovers stay local.
+*.md
+!/README.md
+!/CONTRIBUTING.md
+!/api/README.md
+!/web/README.md
+!/local-owner/README.md
+
+# Interactive analysis history is local working data.
+.Rhistory
+.RData
+.Ruserdata

@@ -1,0 +1,390 @@
+{
+  "source_url": "https://bologna.yildiz.edu.tr/index.php?r=program/bachelor",
+  "verified_on": "2026-09-16",
+  "programs": [
+    {
+      "name": "Bilgisayar ve Öğretim Teknolojileri Eğitimi Lisans Programı (%30 İngilizce)",
+      "department": "Bilgisayar ve Öğretim Teknolojileri Eğitimi",
+      "program_id": 31,
+      "academic_unit_id": 20
+    },
+    {
+      "name": "Rehberlik ve Psikolojik Danışmanlık Lisans Programı",
+      "department": "Rehberlik ve Psikolojik Danışmanlık",
+      "program_id": 183,
+      "academic_unit_id": 133
+    },
+    {
+      "name": "Fen Bilgisi Eğitimi Lisans Programı",
+      "department": "Fen Bilgisi Eğitimi",
+      "program_id": 106,
+      "academic_unit_id": 127
+    },
+    {
+      "name": "İlköğretim Matematik Eğitimi Lisans Programı",
+      "department": "İlköğretim Matematik Eğitimi",
+      "program_id": 107,
+      "academic_unit_id": 128
+    },
+    {
+      "name": "Okulöncesi Eğitimi Lisans Programı",
+      "department": "Okulöncesi Eğitimi",
+      "program_id": 108,
+      "academic_unit_id": 130
+    },
+    {
+      "name": "Sınıf Öğretmenliği Lisans Programı",
+      "department": "Sınıf Öğretmenliği",
+      "program_id": 109,
+      "academic_unit_id": 131
+    },
+    {
+      "name": "Sosyal Bilgiler Eğitimi Lisans Programı",
+      "department": "Sosyal Bilgiler Eğitimi",
+      "program_id": 110,
+      "academic_unit_id": 132
+    },
+    {
+      "name": "Türkçe Eğitimi Lisans Programı",
+      "department": "Türkçe Eğitimi",
+      "program_id": 35,
+      "academic_unit_id": 161
+    },
+    {
+      "name": "İngilizce Öğretmenliği Lisans Programı (%30 İngilizce)",
+      "department": "İngilizce Öğretmenliği",
+      "program_id": 96,
+      "academic_unit_id": 21
+    },
+    {
+      "name": "Bilgisayar Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Bilgisayar Mühendisliği",
+      "program_id": 550,
+      "academic_unit_id": 3
+    },
+    {
+      "name": "Biyomedikal Mühendisliği Lisans Programı (%100 İngilizce)",
+      "department": "Biyomedikal Mühendisliği",
+      "program_id": 504,
+      "academic_unit_id": 151
+    },
+    {
+      "name": "Elektrik Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Elektrik Mühendisliği",
+      "program_id": 7,
+      "academic_unit_id": 4
+    },
+    {
+      "name": "Elektronik & Haberleşme Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Elektronik & Haberleşme Mühendisliği",
+      "program_id": 6,
+      "academic_unit_id": 5
+    },
+    {
+      "name": "Kontrol ve Otomasyon Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Kontrol ve Otomasyon Mühendisliği",
+      "program_id": 29,
+      "academic_unit_id": 18
+    },
+    {
+      "name": "Kontrol ve Otomasyon Mühendisliği Lisans Programı (%100 İngilizce)",
+      "department": "Kontrol ve Otomasyon Mühendisliği",
+      "program_id": 403,
+      "academic_unit_id": 18
+    },
+    {
+      "name": "Yapay Zeka ve Veri Mühendisliği Lisans Programı (%100 İngilizce)",
+      "department": "Yapay Zeka ve Veri Mühendisliği",
+      "program_id": 557,
+      "academic_unit_id": 181
+    },
+    {
+      "name": "Fransızca Mütercim Tercümanlık Lisans Programı (2018 versiyon)",
+      "department": "Fransızca Mütercim Tercümanlık",
+      "program_id": 201,
+      "academic_unit_id": 8
+    },
+    {
+      "name": "Fizik Lisans Programı (%30 İngilizce)",
+      "department": "Fizik",
+      "program_id": 25,
+      "academic_unit_id": 10
+    },
+    {
+      "name": "İstatistik Lisans Programı (%30 İngilizce)",
+      "department": "İstatistik",
+      "program_id": 9,
+      "academic_unit_id": 11
+    },
+    {
+      "name": "Kimya Lisans Programı (%30 İngilizce)",
+      "department": "Kimya",
+      "program_id": 10,
+      "academic_unit_id": 12
+    },
+    {
+      "name": "Kimya Lisans Programı (%100 İngilizce)",
+      "department": "Kimya",
+      "program_id": 396,
+      "academic_unit_id": 12
+    },
+    {
+      "name": "Matematik Lisans Programı",
+      "department": "Matematik",
+      "program_id": 26,
+      "academic_unit_id": 13
+    },
+    {
+      "name": "Moleküler Biyoloji ve Genetik Lisans Programı",
+      "department": "Moleküler Biyoloji ve Genetik",
+      "program_id": 191,
+      "academic_unit_id": 9
+    },
+    {
+      "name": "Türk Dili ve Edebiyatı Lisans Programı",
+      "department": "Türk Dili ve Edebiyatı",
+      "program_id": 27,
+      "academic_unit_id": 16
+    },
+    {
+      "name": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği",
+      "program_id": 48,
+      "academic_unit_id": 35
+    },
+    {
+      "name": "Gemi Makineleri İşletme Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Gemi Makineleri İşletme Mühendisliği",
+      "program_id": 141,
+      "academic_unit_id": 36
+    },
+    {
+      "name": "İktisat Lisans Programı",
+      "department": "İktisat",
+      "program_id": 54,
+      "academic_unit_id": 45
+    },
+    {
+      "name": "İktisat Lisans Programı (%100 İngilizce)",
+      "department": "İktisat",
+      "program_id": 535,
+      "academic_unit_id": 45
+    },
+    {
+      "name": "İşletme Lisans Programı (%30 İngilizce)",
+      "department": "İşletme",
+      "program_id": 55,
+      "academic_unit_id": 46
+    },
+    {
+      "name": "İşletme Lisans Programı (%100 İngilizce)",
+      "department": "İşletme",
+      "program_id": 539,
+      "academic_unit_id": 46
+    },
+    {
+      "name": "Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı (%30 İngilizce)",
+      "department": "Siyaset Bilimi ve Uluslararası İlişkiler",
+      "program_id": 56,
+      "academic_unit_id": 47
+    },
+    {
+      "name": "Çevre Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Çevre Mühendisliği",
+      "program_id": 43,
+      "academic_unit_id": 29
+    },
+    {
+      "name": "Harita Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Harita Mühendisliği",
+      "program_id": 44,
+      "academic_unit_id": 30
+    },
+    {
+      "name": "İnşaat Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "İnşaat Mühendisliği",
+      "program_id": 40,
+      "academic_unit_id": 28
+    },
+    {
+      "name": "İnşaat Mühendisliği Lisans Programı (%100 İngilizce)",
+      "department": "İnşaat Mühendisliği",
+      "program_id": 397,
+      "academic_unit_id": 28
+    },
+    {
+      "name": "Biyomühendislik Lisans Programı (%30 İngilizce)",
+      "department": "Biyomühendislik",
+      "program_id": 147,
+      "academic_unit_id": 26
+    },
+    {
+      "name": "Biyomühendislik Lisans Programı (%100 İngilizce)",
+      "department": "Biyomühendislik",
+      "program_id": 163,
+      "academic_unit_id": 26
+    },
+    {
+      "name": "Gıda Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Gıda Mühendisliği",
+      "program_id": 195,
+      "academic_unit_id": 109
+    },
+    {
+      "name": "Kimya Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Kimya Mühendisliği",
+      "program_id": 36,
+      "academic_unit_id": 23
+    },
+    {
+      "name": "Kimya Mühendisliği Lisans Programı (%100 İngilizce)",
+      "department": "Kimya Mühendisliği",
+      "program_id": 398,
+      "academic_unit_id": 23
+    },
+    {
+      "name": "Matematik Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Matematik Mühendisliği",
+      "program_id": 37,
+      "academic_unit_id": 24
+    },
+    {
+      "name": "Matematik Mühendisliği Lisans Programı (%100 İngilizce)",
+      "department": "Matematik Mühendisliği",
+      "program_id": 222,
+      "academic_unit_id": 24
+    },
+    {
+      "name": "Metalürji ve Malzeme Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Metalürji ve Malzeme Mühendisliği",
+      "program_id": 38,
+      "academic_unit_id": 25
+    },
+    {
+      "name": "Metalürji ve Malzeme Mühendisliği Lisans Programı (%100 İngilizce)",
+      "department": "Metalürji ve Malzeme Mühendisliği",
+      "program_id": 401,
+      "academic_unit_id": 25
+    },
+    {
+      "name": "Endüstri Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Endüstri Mühendisliği",
+      "program_id": 45,
+      "academic_unit_id": 32
+    },
+    {
+      "name": "Endüstri Mühendisliği Lisans Programı (%100 İngilizce)",
+      "department": "Endüstri Mühendisliği",
+      "program_id": 405,
+      "academic_unit_id": 32
+    },
+    {
+      "name": "Makine Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Makine Mühendisliği",
+      "program_id": 391,
+      "academic_unit_id": 97
+    },
+    {
+      "name": "Mekatronik Mühendisliği Lisans Programı (%30 İngilizce)",
+      "department": "Mekatronik Mühendisliği",
+      "program_id": 46,
+      "academic_unit_id": 33
+    },
+    {
+      "name": "Mekatronik Mühendisliği Lisans Programı (%100 İngilizce)",
+      "department": "Mekatronik Mühendisliği",
+      "program_id": 404,
+      "academic_unit_id": 33
+    },
+    {
+      "name": "Kültür Varlıklarını Koruma ve Onarım Lisans Programı",
+      "department": "Kültür Varlıklarını Koruma ve Onarım",
+      "program_id": 487,
+      "academic_unit_id": 149
+    },
+    {
+      "name": "Mimarlık Lisans Programı (%30 İngilizce)",
+      "department": "Mimarlık",
+      "program_id": 50,
+      "academic_unit_id": 38
+    },
+    {
+      "name": "Mimarlık Lisans Programı (%100 İngilizce)",
+      "department": "Mimarlık",
+      "program_id": 429,
+      "academic_unit_id": 38
+    },
+    {
+      "name": "Şehir ve Bölge Planlama Lisans Programı (%30 İngilizce)",
+      "department": "Şehir ve Bölge Planlama",
+      "program_id": 51,
+      "academic_unit_id": 39
+    },
+    {
+      "name": "İletişim ve Tasarımı Lisans Programı",
+      "department": "İletişim ve Tasarımı",
+      "program_id": 52,
+      "academic_unit_id": 42
+    },
+    {
+      "name": "Müzik Toplulukları Lisans Programı",
+      "department": "Müzik Toplulukları",
+      "program_id": 208,
+      "academic_unit_id": 43
+    },
+    {
+      "name": "Ses Sanatları Tasarımı Lisans Programı",
+      "department": "Ses Sanatları Tasarımı",
+      "program_id": 206,
+      "academic_unit_id": 43
+    },
+    {
+      "name": "Dans Lisans Programı",
+      "department": "Dans",
+      "program_id": 207,
+      "academic_unit_id": 43
+    },
+    {
+      "name": "Bileşik Sanatlar Lisans Programı",
+      "department": "Bileşik Sanatlar",
+      "program_id": 259,
+      "academic_unit_id": 41
+    },
+    {
+      "name": "Sanat ve Kültür Yönetimi Lisans Programı",
+      "department": "Sanat ve Kültür Yönetimi",
+      "program_id": 263,
+      "academic_unit_id": 41
+    },
+    {
+      "name": "Fotoğraf ve Video Lisans Programı",
+      "department": "Fotoğraf ve Video",
+      "program_id": 281,
+      "academic_unit_id": 41
+    },
+    {
+      "name": "Grafik Tasarımı Lisans Programı",
+      "department": "Grafik Tasarımı",
+      "program_id": 513,
+      "academic_unit_id": 41
+    },
+    {
+      "name": "Endüstri Ürünleri Tasarımı Lisans Programı",
+      "department": "Endüstri Ürünleri Tasarımı",
+      "program_id": 516,
+      "academic_unit_id": 41
+    },
+    {
+      "name": "Havacılık Elektroniği Lisans Programı (%100 İngilizce)",
+      "department": "Havacılık Elektroniği",
+      "program_id": 511,
+      "academic_unit_id": 152
+    }
+  ],
+  "excluded": [
+    {
+      "program_id": 136,
+      "reason": "İşletme ABD Bilimsel Hazırlık Programı is not a bachelor degree"
+    }
+  ]
+}
